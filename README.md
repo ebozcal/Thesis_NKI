@@ -1,5 +1,5 @@
 # Thesis_NKI
-My master's thesis codes
+
 The aim of this project is to predict the response of MPM treatment with machine learning (ML) methods by using 3D CT scans. 
 
 In the first part, an unsupervised ML method was implemented on the features extracted
